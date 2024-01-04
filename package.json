@@ -5,7 +5,7 @@
   "files": [
     "dist"
   ],
-  "version": "0.1.20",
+  "version": "0.1.21",
   "private": false,
   "dependencies": {
     "@rollup/plugin-url": "^8.0.2",
