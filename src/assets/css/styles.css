@@ -1,9 +1,9 @@
 .card {
   position: relative;
-  display: inline-block;
+  /* display: inline-block; */
   width: 100px;
   height: 140px;
-  margin: 8px;
+  /* margin: 8px; */
   background-color: #fff;
   border: 1px solid #000;
 }
